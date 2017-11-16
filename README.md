@@ -10,7 +10,7 @@ Sample project using React, TypeScript and Redux
 
 ## Notes
 - This project is using [Ducks](https://github.com/erikras/ducks-modular-redux) to simplify the organisation of Redux components
-- The most complex component is src/components/ProgressCircle
+- The most complex component is [ProgressCircle](https://github.com/emilioicai/progress-tracker/blob/master/src/components/ProgressCircle/index.tsx)
 - Unittests and proper styling were not added in this initial version as the focus is on TS, React and Redux. They will be taken care later
 
 ## Screenshot
